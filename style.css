@@ -138,6 +138,5 @@ section {
 }
 
 .ft-l ul li a:hover, .ft-r ul li a:hover {
-    text-decoration: underline;
-   
+    text-decoration: underline; 
 }
